@@ -102,6 +102,7 @@ sudo apt install chkrootkit
 ![image](https://user-images.githubusercontent.com/93474690/145324406-1f56bfa5-4891-4eff-b3be-1981a053c170.png)
 
 sudo chkrootkit -V
+
 ![image](https://user-images.githubusercontent.com/93474690/145324505-dc39dff5-3355-4d34-b973-e25d16644f0f.png)
 
 
